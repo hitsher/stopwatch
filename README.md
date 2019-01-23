@@ -2,4 +2,4 @@
 Stopwatch based on HTML/CSS/JS Technologies.
 
 
-![alt text](Screenshot.png "Description goes here")
+![alt text](Screenshot.png "Screenshot")
