@@ -1,4 +1,5 @@
-# stopwatch
-Stopwatch with simple animation.
+# Stopwatch
+Stopwatch based on HTML/CSS/JS Technologies.
 
-https://hitsher.github.io/stopwatch/.
+
+![alt text](Screenshot.png "Description goes here")
